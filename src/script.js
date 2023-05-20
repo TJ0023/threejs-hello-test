@@ -36,7 +36,7 @@ fontLoader.load(
 
         // Text
         const textGeometry = new TextGeometry(
-            'Hello Three.js',
+            'Hello Three.js by TJ ',
             {
                 font: font,
                 size: 0.5,
